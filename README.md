@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome! 👋 
 
-<!--
-**AgusMolinaCode/AgusMolinaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is **Agustin** and I am a ✨Frontend developer✨ I work with the following technologies:
+```sh
+HTML/CSS
+Javascript
+tailwind
+Bootstrap
+React
+Typescript
+Next.js 
+```
 
-Here are some ideas to get you started:
+I like to keep learning, that's why I'm currently studying Node.js - Nest.js - Dart and Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter...
+- 💬 Ask me about Javascript and React
+
+Don't forget to visit my Linkedin: [LinkedIn]
+
+
+[LinkedIn]:https://www.linkedin.com/in/agustin-molina-994635138/
+
+

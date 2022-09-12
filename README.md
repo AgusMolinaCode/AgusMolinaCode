@@ -13,9 +13,9 @@ Next.js
 ```
 
 
-I like to keep learning, that's why I'm currently studying Node.js - Nest.js - Dart and Flutter.
+I like to keep learning, that's why I'm currently studying Node.js - Nest.js - Python.
 
-- 🌱 I’m currently learning Flutter...
+- 🌱 I’m currently learning Python...
 - 💬 Ask me about Javascript and React
 
 Don't forget to visit my Linkedin: [LinkedIn]

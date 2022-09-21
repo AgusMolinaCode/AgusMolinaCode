@@ -13,7 +13,7 @@ Next.js
 ```
 
 
-I like to keep learning, that's why I'm currently studying Node.js - Nest.js - Python.
+I like to keep learning, that's why I'm currently studying Node.js.
 
 - 🌱 I’m currently learning Python...
 - 💬 Ask me about Javascript and React

@@ -8,14 +8,13 @@ Javascript
 tailwind
 Bootstrap
 React
-Typescript
-Next.js 
+Typescript 
 ```
 
 
 I like to keep learning, that's why I'm currently studying Node.js.
 
-- 🌱 I’m currently learning Python...
+- 🌱 I’m currently learning Next.js...
 - 💬 Ask me about Javascript and React
 
 Don't forget to visit my Linkedin: [LinkedIn]

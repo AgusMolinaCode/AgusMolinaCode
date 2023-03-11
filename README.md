@@ -14,7 +14,7 @@ Typescript
 
 I like to keep learning, that's why I'm currently studying Node.js.
 
-- 🌱 I’m currently learning Next.js...
+- 🌱 I’m currently learning Next.js and Flutter...
 - 💬 Ask me about Javascript and React
 
 Don't forget to visit my Linkedin: [LinkedIn]

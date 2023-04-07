@@ -2,11 +2,8 @@
 
 Hi, my name is **Agustin** and I am a ✨Frontend developer✨ I work with the following technologies:
 ```sh
-HTML/CSS
-GIT
 Javascript 
-tailwind
-Bootstrap
+Tailwind
 React
 Typescript 
 ```

@@ -5,14 +5,14 @@ Hi, my name is **Agustin** and I am a ✨Frontend developer✨ I work with the f
 Javascript 
 Tailwind
 React
+Flutter
 Typescript 
 ```
 
 
 I like to keep learning, that's why I'm currently studying Node.js.
 
-- 🌱 I’m currently learning Next.js and Flutter...
-- 💬 Ask me about Javascript and React
+- 🌱 I’m currently learning Next.js
 
 Don't forget to visit my Linkedin: [LinkedIn]
 

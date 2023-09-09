@@ -6,7 +6,11 @@ Javascript
 Tailwind
 Next.js
 Typescript
-PostgreSQL
+MongoDB
+```
+currently studying
+```
+postgresql
 ```
 
 Don't forget to visit my Linkedin: [LinkedIn]

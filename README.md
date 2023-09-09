@@ -5,7 +5,8 @@ Hi, my name is **Agustin** and I am a ✨Frontend developer✨ I work with the f
 Javascript 
 Tailwind
 Next.js
-Typescript 
+Typescript
+PostgreSQL
 ```
 
 Don't forget to visit my Linkedin: [LinkedIn]

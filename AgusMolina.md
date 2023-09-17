@@ -16,17 +16,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <p align="left">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-<img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="typescript" width="40" height="40"/> 
-      <h3 align="left">Actually Learning:</h3>
+    <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="typescript" width="40" height="40"/> 
+  </p>
+    
+  <h3 align="left">Actually Learning:</h3>
+  <p align="left">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="typescript" width="40" height="40"/>
     </p>
+    
     
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusMolinaCode&show_icons=true&locale=en&layout=compact" alt="AgusMolinaCode" /></p>

@@ -23,6 +23,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="typescript" width="40" height="40"/> 
+    <img src="https://repository-images.githubusercontent.com/307489284/3c9cb558-3cc6-408a-bb6e-c154bde00930" width="40" height="40"/>
+    <img src="[https://repository-images.githubusercontent.com/307489284/3c9cb558-3cc6-408a-bb6e-c154bde00930](https://gelpi.com.ar/assets/logos/shopify.png)" width="40" height="40"/> 
   </p>
     
   <h3 align="left">Actually Learning:</h3>

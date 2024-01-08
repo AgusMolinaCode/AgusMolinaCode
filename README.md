@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="typescript" width="40" height="40"/> 
     <img src="https://repository-images.githubusercontent.com/307489284/3c9cb558-3cc6-408a-bb6e-c154bde00930" width="40" height="40"/>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sarbacane.com%2Fes%2Fextensiones-emailing%2Fshopify&psig=AOvVaw3bGhI2c_MF-zcbnVRGQoVH&ust=1704774766115000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj3lIX7zIMDFQAAAAAdAAAAABAa" width="40" height="40"/> 
+    <img src="https://www.sarbacane-cdn.com/img/extensions/shopify/icone.svg" width="40" height="40"/> 
   </p>
     
   <h3 align="left">Actually Learning:</h3>

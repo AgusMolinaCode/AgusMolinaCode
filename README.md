@@ -25,14 +25,14 @@
     <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="typescript" width="40" height="40"/> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*DbN1Tyxr_mgea0Bv" width="40" height="40"/>
     <img src="https://www.sarbacane-cdn.com/img/extensions/shopify/icone.svg" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="typescript" width="40" height="40"/>
   </p>
     
   <h3 align="left">Actually Learning:</h3>
   <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="typescript" width="40" height="40"/>
-    </p>
+    <h4>Blockchain and Node.js</p>  
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   -->
+    </h4>
     
     
 

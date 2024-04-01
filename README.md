@@ -26,6 +26,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*DbN1Tyxr_mgea0Bv" width="40" height="40"/>
     <img src="https://www.sarbacane-cdn.com/img/extensions/shopify/icone.svg" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="typescript" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="typescript" width="40" height="40"/>
   </p>
     
   <h3 align="left">Actually Learning:</h3>

@@ -30,8 +30,8 @@
     
   <h3 align="left">Actually Learning:</h3>
   <p align="left">
-    <h4>Blockchain and Node.js</p>  
-<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png)" alt="nodejs" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="nodejs" width="40" height="40"/>
     </h4>
     
     

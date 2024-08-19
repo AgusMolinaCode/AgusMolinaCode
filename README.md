@@ -1,14 +1,32 @@
-<h1 align="center">Hi 👋, I'm Agustin Molina</h1>
+<h1>Hi, I'm Agus 👋</h1>
 
-<p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/AgusMolinaCode)"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionated+Fronted+Developer;&center=true&width=380&height=45"></a>
+<p class="intro">
+  Passionate frontend developer with a drive for continuous learning and growth, aspiring to become a fullstack expert. With a strong focus on creating dynamic and responsive user interfaces using <strong>Next.js</strong>, I’m expanding my skill set to include backend development with <strong>.NET</strong> and <strong>C#</strong>, leveraging <strong>Entity Framework</strong> for efficient data management.
 </p>
 
-<h3 align="center">Passionate frontend developer with a drive for continuous learning and growth, aspiring to become a fullstack expert.</h3>
+<h2>What I’m currently working on:</h2>
+<ul class="current-work">
+  <li><strong>🌐 Frontend:</strong> Building modern web applications using <strong>Next.js</strong>, focusing on performance and SEO.</li>
+  <li><strong>💻 Backend:</strong> Developing robust APIs and backend services with <strong>.NET</strong> and <strong>C#</strong>.</li>
+  <li><strong>🗄️ Databases:</strong> Utilizing <strong>SQL</strong> and <strong>SQL Server</strong> for data storage, retrieval, and management.</li>
+  <li><strong>☁️ Cloud Computing:</strong> Currently diving into cloud computing to enhance my fullstack capabilities.</li>
+  <li><strong>🛒 E-commerce:</strong> Creating high-level ecommerce platforms with <strong>Remix Run</strong> and <strong>Shopify</strong>.</li>
+</ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgusMolinaCode&label=Profile%20views&color=0e75b6&style=flat" alt="shboul1" /> </p>
+<h2>What I’m aiming for:</h2>
+<ul class="goals">
+  <li>Deepen my understanding of <strong>Next.js</strong> for building efficient and user-friendly frontends.</li>
+  <li>Strengthen my backend skills with <strong>.NET</strong>, <strong>C#</strong>, and <strong>Entity Framework</strong> to create reliable and scalable applications.</li>
+  <li>Continue learning <strong>SQL</strong> and <strong>SQL Server</strong> for effective data management.</li>
+  <li>Explore <strong>cloud computing</strong> to expand my fullstack capabilities and stay current with industry trends.</li>
+</ul>
 
-- 📫 How to reach me **agustin.molina.dev@gmail.com**
+
+<h2>Let’s connect!</h2>
+<p class="connect">
+  I’m always open to discussing new opportunities, collaborations, or just sharing knowledge. Feel free to <a href="mailto:agustin.molina.dev@gmail.com">reach out</a>!
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
   <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/AgusMolinaCode)"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionated+Fronted+Developer;&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center">Passionate frontend developer with a drive for continuous learning and growth, aspiring to become a fullstack expert.</h1>
+<h3 align="center">Passionate frontend developer with a drive for continuous learning and growth, aspiring to become a fullstack expert.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AgusMolinaCode&label=Profile%20views&color=0e75b6&style=flat" alt="shboul1" /> </p>
 

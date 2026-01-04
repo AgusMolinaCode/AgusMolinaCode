@@ -1,6 +1,6 @@
 # Agus — eCommerce & AI 🚀
 
-💻 Desarrollador freelance enfocado en **eCommerce** y **proyectos con Inteligencia Artificial**.
+💻 Desarrollador freelance enfocado en **eCommerce** y **proyectos con Inteligencia Artificial en general**.
 
 Construyo **productos digitales funcionales**, donde la tecnología acompaña procesos reales de negocio: vender online 🛒, automatizar tareas ⚙️ y usar datos de forma inteligente 📊.
 
@@ -26,7 +26,7 @@ Construyo **productos digitales funcionales**, donde la tecnología acompaña pr
 
 ## eCommerce 🛍️
 
-* 🧩 **Custom eCommerce** con Next.js
+* 🧩 **Custom eCommerce y sitios web** con Next.js
 * 🛒 **Shopify** (Liquid y personalizaciones)
 * 🧱 **WordPress + WooCommerce**
 

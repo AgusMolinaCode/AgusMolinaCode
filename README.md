@@ -18,9 +18,9 @@ Construyo **productos digitales funcionales**, donde la tecnología acompaña pr
 
 * ⚛️ **Next.js + TypeScript**
 * 🐘 **PostgreSQL**
-* 🔐 **Supabase** (auth, database, storage)
-* 🌱 **Neon**
-* 🤖 Integración de **IA** en productos web
+* 🔐 **Supabase** & **Neon** (database, storage)
+* 🌱 **Clerk** (auth)
+* 🤖 Integración de **IA** (Open AI,Claude,Minimax 2.1, GLM 4.7, Deepseek)
 
 ---
 

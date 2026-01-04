@@ -1,1 +1,37 @@
-<h1>Hi, I'm Agus 👋</h1> <p class="intro"> Passionate frontend developer with a drive for continuous learning and growth, aspiring to become a fullstack expert. With a strong focus on creating dynamic and responsive user interfaces using <strong>Next.js</strong>, I’m expanding my skill set to include backend development with <strong>Go</strong> and <strong>Golang</strong>, leveraging efficient data management techniques for scalable systems. </p> <h2>What I’m currently working on:</h2> <ul class="current-work"> <li><strong>🌐 Frontend:</strong> Building modern web applications using <strong>Next.js</strong>, focusing on performance and SEO.</li> <li><strong>💻 Backend:</strong> Developing robust APIs and backend services with <strong>Go</strong> and <strong>Golang</strong>.</li> <li><strong>🗄️ Databases:</strong> Utilizing <strong>SQL</strong> and <strong>SQL Server</strong> for data storage, retrieval, and management.</li> <li><strong>☁️ Cloud Computing:</strong> Currently diving into cloud computing to enhance my fullstack capabilities.</li> <li><strong>🛒 E-commerce:</strong> Creating high-level ecommerce platforms with <strong>Remix Run</strong> and <strong>Shopify</strong>.</li> </ul> <h2>What I’m aiming for:</h2> <ul class="goals"> <li>Deepen my understanding of <strong>Next.js</strong> for building efficient and user-friendly frontends.</li> <li>Strengthen my backend skills with <strong>Go</strong> and <strong>Golang</strong> to create reliable and scalable applications.</li> <li>Continue learning <strong>SQL</strong> and <strong>SQL Server</strong> for effective data management.</li> <li>Explore <strong>cloud computing</strong> to expand my fullstack capabilities and stay current with industry trends.</li> </ul> <h2>Let’s connect!</h2> <p class="connect"> I’m always open to discussing new opportunities, collaborations, or just sharing knowledge. Feel free to <a href="mailto:agustin.molina.dev@gmail.com">reach out</a>! </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/agustin-molina-994635138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-molina/" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="typescript" width="40" height="40"/> <img src="https://miro.medium.com/v2/resize:fit:1400/0*DbN1Tyxr_mgea0Bv" width="40" height="40"/> <img src="https://www.sarbacane-cdn.com/img/extensions/shopify/icone.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="typescript" width="40" height="40"/> <!-- <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="typescript" width="40" height="40"/> --> </p> <h3 align="left">Actually Learning:</h3> <p align="left"> <img src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="40" height="40"/> </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusMolinaCode&show_icons=true&locale=en&layout=compact" alt="AgusMolinaCode" /></p>
+# Agus — eCommerce & AI 🚀
+
+💻 Desarrollador freelance enfocado en **eCommerce** y **proyectos con Inteligencia Artificial**.
+
+Construyo **productos digitales funcionales**, donde la tecnología acompaña procesos reales de negocio: vender online 🛒, automatizar tareas ⚙️ y usar datos de forma inteligente 📊.
+
+---
+
+## Qué hago ✨
+
+* 🛒 Desarrollo **plataformas eCommerce** a medida
+* 🤖 Integro **IA** dentro de aplicaciones web y flujos existentes
+* ⚙️ Creo **herramientas internas y automatizaciones**
+
+---
+
+## Tecnologías 🧰
+
+* ⚛️ **Next.js + TypeScript**
+* 🐘 **PostgreSQL**
+* 🔐 **Supabase** (auth, database, storage)
+* 🌱 **Neon**
+* 🤖 Integración de **IA** en productos web
+
+---
+
+## eCommerce 🛍️
+
+* 🧩 **Custom eCommerce** con Next.js
+* 🛒 **Shopify** (Liquid y personalizaciones)
+* 🧱 **WordPress + WooCommerce**
+
+---
+
+🤝 Trabajo con emprendedores y negocios que necesitan **soluciones claras, escalables y mantenibles**.
+
+👀 Si estás en eCommerce o querés integrar IA en tus productos, probablemente esto sea relevante para vos.

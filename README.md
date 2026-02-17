@@ -20,7 +20,7 @@ Construyo **productos digitales funcionales**, donde la tecnología acompaña pr
 * 🐘 **PostgreSQL**
 * 🔐 **Supabase** & **Neon** (database, storage)
 * 🌱 **Clerk** (auth)
-* 🤖 Integración de **IA** (Open AI,Claude,Minimax 2.1, GLM 4.7, Deepseek)
+* 🤖 Integración de **IA** (Open AI,Claude,Kimi K2.5)
 
 ---
 
